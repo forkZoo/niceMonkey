@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#808080" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0A0A0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="176" y="144" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="232" y="168" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="128" y="192" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="184" y="216" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="240" y="240" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="136" y="264" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="192" y="128" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="143" y="187" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="166" y="254" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="189" y="161" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="212" y="228" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="235" y="135" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="258" y="202" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="121" y="269" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -79,7 +79,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+<path d="M110 120 Q200 90 290 120" stroke="#E74C3C" stroke-width="12" fill="none"/><polygon points="105,125 90,160 115,150" fill="#E74C3C"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
