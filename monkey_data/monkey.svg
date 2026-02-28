@@ -49,7 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#F8F9FA"/>
+<rect width="400" height="400" fill="url(#sky-gradient)"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -80,7 +80,7 @@
         </g>
 <ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
 <ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
-
+<rect x="155" y="55" width="90" height="18" rx="3" fill="#8B0000"/><rect x="145" y="70" width="110" height="8" fill="#8B0000"/>
 <circle cx="200" cy="200" r="135" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.25"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
