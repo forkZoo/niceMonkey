@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "ad7d37795af9f569",
-  "mutation_count": 62,
+  "dna_hash": "13b7a51abba62053",
+  "mutation_count": 63,
   "birth_timestamp": 309100,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "dbc6932f"
     },
     "accessory": {
-      "value": "bow",
+      "value": "simple_hat",
       "rarity": "common",
-      "gene_sequence": "22acdd9b"
+      "gene_sequence": "ed716f46"
     },
     "pattern": {
       "value": "stars",
