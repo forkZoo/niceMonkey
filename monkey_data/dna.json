@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "abc350a50f2ffe87",
-  "mutation_count": 81,
+  "dna_hash": "f881181b152b27db",
+  "mutation_count": 82,
   "birth_timestamp": 309100,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "facdd9fe"
     },
     "face_expression": {
-      "value": "enlightened",
+      "value": "divine",
       "rarity": "legendary",
-      "gene_sequence": "3fc73d5b"
+      "gene_sequence": "d0bb2449"
     },
     "accessory": {
       "value": "bandana",
