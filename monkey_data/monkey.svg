@@ -49,8 +49,8 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#grass-gradient)"/>
-<circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="3" opacity="0.25" stroke-dasharray="20,10"/>
+<rect width="400" height="400" fill="url(#sunset-gradient)"/>
+
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#CD7F32" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
@@ -78,7 +78,7 @@
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
 <path d="M110 120 Q200 90 290 120" stroke="#E74C3C" stroke-width="12" fill="none"/><polygon points="105,125 90,160 115,150" fill="#E74C3C"/>
-
+<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="202" cy="218" r="3" fill="#FFD700" opacity="0.6"/><circle cx="104" cy="136" r="3" fill="#FFD700" opacity="0.6"/><circle cx="206" cy="254" r="3" fill="#FFD700" opacity="0.6"/><circle cx="108" cy="172" r="3" fill="#FFD700" opacity="0.6"/><circle cx="210" cy="290" r="3" fill="#FFD700" opacity="0.6"/><circle cx="112" cy="208" r="3" fill="#FFD700" opacity="0.6"/><circle cx="214" cy="126" r="3" fill="#FFD700" opacity="0.6"/><circle cx="116" cy="244" r="3" fill="#FFD700" opacity="0.6"/><circle cx="218" cy="162" r="3" fill="#FFD700" opacity="0.6"/><circle cx="120" cy="280" r="3" fill="#FFD700" opacity="0.6"/><circle cx="222" cy="198" r="3" fill="#FFD700" opacity="0.6"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">UNCOMMON</text>
