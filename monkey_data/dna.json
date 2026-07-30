@@ -1,14 +1,14 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "c62f45cadb6c0bbd",
-  "mutation_count": 116,
+  "dna_hash": "8ebc47f97e0e4969",
+  "mutation_count": 118,
   "birth_timestamp": 309100,
   "traits": {
     "body_color": {
-      "value": "bronze",
+      "value": "silver",
       "rarity": "uncommon",
-      "gene_sequence": "af0c9603"
+      "gene_sequence": "2066cd78"
     },
     "face_expression": {
       "value": "enlightened",
@@ -16,9 +16,9 @@
       "gene_sequence": "3fc73d5b"
     },
     "accessory": {
-      "value": "bow",
+      "value": "none",
       "rarity": "common",
-      "gene_sequence": "22acdd9b"
+      "gene_sequence": "8f67e8db"
     },
     "pattern": {
       "value": "flames",
