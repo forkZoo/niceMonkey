@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#808080" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0A0A0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="211" y="147" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="152" y="164" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="233" y="181" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="174" y="198" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="255" y="215" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="196" y="232" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
+<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="169" y="133" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="208" y="136" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="247" y="139" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="146" y="142" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="185" y="145" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="224" y="148" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -82,7 +82,7 @@
 <path d="M147 160 Q162 150 177 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <path d="M223 160 Q238 150 253 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <path d="M110 120 Q200 90 290 120" stroke="#E74C3C" stroke-width="12" fill="none"/><polygon points="105,125 90,160 115,150" fill="#E74C3C"/>
-<ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
+
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
