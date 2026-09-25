@@ -80,7 +80,7 @@
         </g>
 <ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
 <ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
-<rect x="155" y="55" width="90" height="18" rx="3" fill="#8B0000"/><rect x="145" y="70" width="110" height="8" fill="#8B0000"/>
+<path d="M110 120 Q200 90 290 120" stroke="#E74C3C" stroke-width="12" fill="none"/><polygon points="105,125 90,160 115,150" fill="#E74C3C"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
