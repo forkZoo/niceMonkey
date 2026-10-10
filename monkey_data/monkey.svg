@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#CD7F32" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#DAA06D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><ellipse cx="200" cy="270" rx="45" ry="25" fill="#FF4500" opacity="0.2"/><ellipse cx="200" cy="260" rx="35" ry="20" fill="#FF6600" opacity="0.15"/></g>
+<g clip-path="url(#head-clip)"><ellipse cx="200" cy="200" rx="100" ry="105" fill="url(#aurora-gradient)" opacity="0.2"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -80,7 +80,7 @@
         </g>
 <ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
 <ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
-<ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
+<circle cx="238" cy="185" r="22" fill="none" stroke="#DAA520" stroke-width="3"/><line x1="260" y1="185" x2="290" y2="240" stroke="#DAA520" stroke-width="2"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
