@@ -49,7 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#sunset-gradient)"/>
+<rect width="400" height="400" fill="#F8F9FA"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#4169E1" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -64,11 +64,11 @@
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="20" fill="#E6E6FA" filter="url(#glow)"/>
-<circle cx="162" cy="185" r="10" fill="#9370DB"/>
+<ellipse cx="162" cy="185" rx="18" ry="20" fill="#FF4500" filter="url(#glow)"/>
+<circle cx="162" cy="185" r="10" fill="#FFD700"/>
 <circle cx="162" cy="185" r="4" fill="#FFF"/>
-<ellipse cx="238" cy="185" rx="18" ry="20" fill="#E6E6FA" filter="url(#glow)"/>
-<circle cx="238" cy="185" r="10" fill="#9370DB"/>
+<ellipse cx="238" cy="185" rx="18" ry="20" fill="#FF4500" filter="url(#glow)"/>
+<circle cx="238" cy="185" r="10" fill="#FFD700"/>
 <circle cx="238" cy="185" r="4" fill="#FFF"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
@@ -76,8 +76,8 @@
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
-<ellipse cx="200" cy="50" rx="55" ry="12" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.85" filter="url(#glow)"/>
+<line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
+<polygon points="155,70 170,35 190,60 210,35 230,60 245,35 245,85 155,85" fill="#FFD700" stroke="#B8860B" stroke-width="3"/><circle cx="200" cy="45" r="8" fill="#E74C3C"/><circle cx="175" cy="55" r="5" fill="#3498DB"/><circle cx="225" cy="55" r="5" fill="#2ECC71"/>
 <text x="110" y="110" font-size="24" fill="#FFD700">✦</text><text x="290" y="110" font-size="24" fill="#FFD700">✦</text><text x="110" y="290" font-size="24" fill="#FFD700">✦</text><text x="290" y="290" font-size="24" fill="#FFD700">✦</text><text x="200" y="70" font-size="24" fill="#FFD700">✦</text>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
