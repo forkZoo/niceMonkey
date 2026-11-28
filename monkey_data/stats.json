@@ -1,8 +1,8 @@
 {
-  "dna_hash": "0a1123bcfe8d0532",
+  "dna_hash": "c98a8e909b386a73",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 199,
+  "mutation_count": 201,
   "rarity_score": 48.333333333333336,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "jetpack",
+      "value": "golden_crown",
       "rarity": "legendary"
     },
     "pattern": {
@@ -31,5 +31,5 @@
       "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-11-27T07:58:48.288083"
+  "last_updated": "2026-11-28T07:28:32.724135"
 }
